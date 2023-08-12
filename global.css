@@ -1,0 +1,32 @@
+/* index.css */
+/* ... existing styles ... */
+
+/* global.css */
+body {
+    margin: 0;
+    line-height: normal;
+    font-size: 16px; /* Set a base font size for the body */
+}
+
+:root {
+    /* fonts */
+    --font-inter: Inter;
+    /* font sizes */
+    --font-size-21xl: 2.5rem; /* Change this to a relative value */
+    --font-size-45xl: 4rem;   /* Change this to a relative value */
+    /* Colors */
+    --color-black: #000;
+}
+
+@media (max-width: 768px) {
+    :root {
+        /* Adjust font sizes for smaller screens */
+        --font-size-21xl: 2rem;
+        --font-size-45xl: 3rem;
+    }
+    
+    /* Adjust other styles as needed */
+    .macbook-pro-16-1 {
+        font-size: var(--font-size-21xl);
+    }
+}

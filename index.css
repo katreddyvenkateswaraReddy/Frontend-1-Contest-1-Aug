@@ -1,0 +1,94 @@
+
+.rectangle-div {
+    position: relative;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 100%;
+    height: 250px;
+}
+
+.the-beagle-blog1 {
+    text-decoration: underline;
+}
+.the-beagle-blog {
+    margin: 0;
+}
+.blank-line2 {
+    font-size: 32px;
+}
+.the {
+    font-family: var(--font-inter);
+}
+.beagle {
+    font-weight: 700;
+    font-family: var(--font-inter);
+}
+.the-beagle-is-a-breed-of-small {
+    margin: 0;
+    font-size: 20px;
+}
+.the-beagle-blog-container {
+    position: relative;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    height: 240px;
+    font-size: 30px;
+    font-family: var(--font-inter);
+}
+
+
+.trivia1 {
+    text-decoration: underline;
+}
+.trivia {
+    margin: 0;
+}
+.height-1316-in-3341-cm {
+    margin-bottom: 20px;
+}
+.height-1316-in-3341-cm-w {
+    margin: 0;
+    font-size: 20px;
+    padding-left: 53px;
+}
+.trivia-height-container {
+    position: relative;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    font-size: 30px;
+    font-family: var(--font-inter);
+}
+
+
+
+.images {
+    position: relative;
+    font-size: 30px;
+    text-decoration: underline;
+    display: inline-block;
+    font-family: var(--font-inter);
+    color: #000;
+    text-align: left;
+    width: 100%;
+}
+
+.dog-1-icon {
+    position: relative;
+    width: 40%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.more-images {
+    position: relative;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: var(--font-inter);
+    color: #000;
+    text-align: left;
+}
+
