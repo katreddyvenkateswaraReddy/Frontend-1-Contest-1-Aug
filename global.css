@@ -24,7 +24,8 @@ body {
         --font-size-21xl: 2rem;
         --font-size-45xl: 3rem;
     }
-    
+
+
     /* Adjust other styles as needed */
     .macbook-pro-16-1 {
         font-size: var(--font-size-21xl);
